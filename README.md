@@ -170,7 +170,7 @@ Invalid rows are skipped and their errors are returned in the response.
 
 &#x20; "failedRows": 0,
 
-&#x20; "errors": \[]
+&#x20; "errors": 
 
 }
 
